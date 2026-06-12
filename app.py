@@ -12,7 +12,7 @@ from utils.ui_components import load_css
 # ---------------- PAGE CONFIG ----------------
 st.set_page_config(
     page_title="Arogya AI",
-    page_icon="🌿",
+    page_icon="assets/logo.png",
     layout="wide"
 )
 
