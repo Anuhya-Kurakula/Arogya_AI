@@ -1,0 +1,125 @@
+/* -------- Background -------- */
+
+body {
+    background-color: #0F172A;
+}
+
+
+/* -------- Main -------- */
+
+.main {
+    background-color: #0F172A;
+}
+
+
+/* -------- Sidebar -------- */
+
+section[data-testid="stSidebar"] {
+
+    background-color: #111827;
+
+    border-right: 1px solid #1F2937;
+}
+
+
+/* -------- Titles -------- */
+
+h1 {
+
+    color: white;
+
+    font-weight: 700;
+}
+
+
+/* -------- Example Buttons -------- */
+
+.stButton button {
+
+    width: 100%;
+
+    border-radius: 18px;
+
+    background-color: #1F2937;
+
+    color: white;
+
+    border: none;
+
+    padding: 12px;
+
+    transition: 0.3s;
+}
+
+.stButton button:hover {
+
+    background-color: #374151;
+}
+
+
+/* -------- Chat -------- */
+
+.stChatMessage {
+
+    border-radius: 20px;
+
+    padding: 15px;
+
+    font-size: 18px;
+}
+
+
+/* -------- Hero Box -------- */
+
+.hero-box {
+
+    background-color: #111827;
+
+    border: 1px solid #1F2937;
+
+    padding: 18px;
+
+    border-radius: 20px;
+
+    color: white;
+
+    margin-bottom: 25px;
+
+    font-size: 17px;
+}
+
+
+/* -------- Disclaimer -------- */
+
+.disclaimer {
+
+    background-color: #111827;
+
+    border: 1px solid #1F2937;
+
+    color: #D1D5DB;
+
+    padding: 12px;
+
+    border-radius: 15px;
+
+    text-align: center;
+
+    margin-top: 40px;
+
+    font-size: 14px;
+}
+
+
+/* -------- Footer -------- */
+
+.footer {
+
+    text-align: center;
+
+    color: #9CA3AF;
+
+    margin-top: 15px;
+
+    font-size: 13px;
+}
